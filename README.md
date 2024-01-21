@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aniket.
+- 👋 Hi, I’m Aniket Purkayastha.
 - 👀 I’m an enthusiastic programmer, keen to explore technologies.
 - 📫 Reach me at www.linkedin.com/in/aniket-purkayastha
 
