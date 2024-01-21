@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aniket.
 - 👀 I’m an enthusiastic programmer, keen to explore technologies.
-- 🌱 My domain of knowledge includes Python, Machine Learning, Git and Web Development.
 - 📫 Reach me at www.linkedin.com/in/aniket-purkayastha
 
 <!---
